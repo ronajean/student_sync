@@ -1,0 +1,36 @@
+.left-section {
+  background-color: aliceblue;
+  width: 30%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+}
+
+.app-title {
+  font-family: "Outfit", sans-serif;
+  position: relative;
+  top: 25%;
+}
+
+.app-title h1 {
+  margin-bottom: 0;
+}
+
+.app-title p {
+  margin-top: 0;
+}
+
+.right-section {
+  position: absolute;
+  top: 56%;
+  left: 56%;
+}
+
+.right-section h2 {
+  font-family: "Outfit", sans-serif;
+  font-size: 5rem;
+  color: #333;
+  text-align: left;
+  margin-top: 20px;
+}
